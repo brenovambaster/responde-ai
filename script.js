@@ -10,7 +10,7 @@ if((b.length && c.length)){
   for(let i=0; i<a.length;i++) a[i].style.filter='none';
    success=1;
 }
-else{alert("Desculpe-me, essa página ainda não foi configurada para tirar o blur destas questões.Contate-nos, talvez possamos ajudar")
+else{alert("erro ao obter dados")
 success=0;
 }
 success ?console.log("success"):console.log("not found ClassName")
