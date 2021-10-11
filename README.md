@@ -1,8 +1,9 @@
 # responde-aí
 Remover blur das questões comentadas do responde aí  #blur #respondeAí #responde #aí #remover
-###  ❗🔺Não me responsabilizo pelo uso indevido por outros para obter conteúdos  nos quais não possuem acesso! Não me responsabilizo por nada!
-- O código é apenas para fins educacionais, quando você estiver com dúvidas em como resolver/entender uma determinada questão! 
-Estude! Não tente não colar, o objetivo aqui é ajudar a entender o processo de como resolver determinada questão,e não colar. 
+###  ❗🔺 Considerações
+- Este repositório foi criado com a intenção de estudar mais sobre sistemas de ofuscação na web que rodam em ambientes client-side. 
+- Não me responsabilizo pelo uso indevido de terceiros para obter conteúdos  dos quais não possuem acesso! Não me responsabilizo por nada!
+- O código é apenas para fins educacionais com  intuito de mostrar  como ocorre a ofuscaçao e como  pode ser uma má ideia usá-la para "esconder" conteúdos.
 
 ## 🤔💭 Como usar? 
   1. Abra o devtools na página da questão do responde aí **(pode-se usar `Ctrl`+`shift`+`i`)**
@@ -24,10 +25,12 @@ if((b.length && c.length)){
   for(let i=0; i<a.length;i++) a[i].style.filter='none';
    success=1;
 }
-else{alert("Desculpe-me, essa página ainda não foi configurada para tirar o blur destas questões.Contate-nos, talvez possamos ajudar")
+else{alert("Desculpe-me, não foi possível obter os dados")
 }
 success ? console.log("success") : console.log("not found ClassName")
 ```
+Exemplo do trecho de Código
+
 ![image](https://user-images.githubusercontent.com/42620040/136797344-545e061b-0353-4afa-85eb-f92d5a1da208.png)
 
   4. Dê enter e pronto
