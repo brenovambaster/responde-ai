@@ -1,6 +1,6 @@
 # responde-aí
 Remover blur das questões comentadas do responde aí  #blur #respondeAí #responde #aí #remover
-###  ❗🔺 Não me responsabilizo por nada.
+###  ❗🔺Não me responsabilizo pelo uso indevido por outros para obter conteúdos  nos quais não possuem acesso! Não me responsabilizo por nada!
 - O código é apenas para fins educacionais, quando você estiver com dúvidas em como resolver/entender uma determinada questão! 
 Estude! Não tente não colar, o objetivo aqui é ajudar a entender o processo de como resolver determinada questão,e não colar. 
 
