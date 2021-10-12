@@ -10,7 +10,5 @@ if((b.length && c.length)){
   for(let i=0; i<a.length;i++) a[i].style.filter='none';
    success=1;
 }
-else{alert("erro ao obter dados")
-success=0;
-}
+else{alert("erro ao obter dados")}
 success ?console.log("success"):console.log("not found ClassName")
